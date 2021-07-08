@@ -1,4 +1,4 @@
-# Student Management Sytem
+# College Management Sytem
  Note:- This is my ongoing project, so it's not complete yet.
 
 A Full Stack Web Application built with Node.js, Express.js, MongoDB and Bootstrap for managing all the tasks and activities of a student within an Institution.
